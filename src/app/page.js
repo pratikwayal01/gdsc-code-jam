@@ -58,12 +58,12 @@ export default function Home() {
             </div>
             <div className="text flex flex-col justify-start items-start">
               <p className="text-base">Google Devloper Student Club</p>
-              <p className="text-xs">Poornima University, Jaipur</p>
+              <p className="text-xs">Government College of Engineering Aurangabad</p>
             </div>
           </div>
 
           <div className="links mob:py-3 flex justify-center items-center space-x-5">
-            <Link href="https://chat.whatsapp.com/J1EjBNlkKRd5ONx4eQ57br">
+            <Link href="https://chat.whatsapp.com/FtR2tnotyEv0MHalA36Zwh">
               <div className="cursor-pointer medium">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -77,7 +77,7 @@ export default function Home() {
                 </svg>
               </div>
             </Link>
-            <Link href="https://www.linkedin.com/in/gdsc-poornima-university-34696528a/">
+            <Link href="https://www.linkedin.com/company/google-developer-student-clubs-geca/">
               <div className="cursor-pointer linkedin">
                 <svg
                   className="w-6"
@@ -91,7 +91,7 @@ export default function Home() {
                 </svg>
               </div>
             </Link>
-            <Link href="https://www.instagram.com/gdsc.poornima">
+            <Link href="https://www.instagram.com/gdsc_geca">
               <div className="cursor-pointer insta">
                 <svg
                   className="w-6"
@@ -105,7 +105,7 @@ export default function Home() {
                 </svg>
               </div>
             </Link>
-            <Link href="https://twitter.com/gdsc_poornima/">
+            <Link href="https://twitter.com/gdsc_geca">
               <div className="cursor-pointer twitter">
                 <svg
                   className="w-6"
@@ -127,15 +127,6 @@ export default function Home() {
 
       <TableIndex />
 
-      <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">
-        Devloped By{" "}
-        <a
-          href="https://avayyyyyyy.github.io/shubhlovesweb3/"
-          className="text-orange-400"
-        >
-          Shubhankit Jain
-        </a>
-      </div>
     </>
   );
 }

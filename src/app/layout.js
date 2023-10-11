@@ -5,7 +5,7 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "GDSC Poornima University",
+  title: "GDSC GECA",
   image: "",
   type: "website",
   description: "This is the leaderboard for the GDSC PU Jams.",
